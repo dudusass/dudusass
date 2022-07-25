@@ -1,12 +1,13 @@
-**Olá, eu me chamo Eduardo Sass e este é meu README.**
+# Olá, eu me chamo Eduardo Sass e este é meu README.
+
 <hr>
 
-Sou brasileiro natural do Rio de Janeiro/rj, atualmente estudo Desenvolvimento web na Trybe, uma escola que vai além do ensino tradicional e incentiva muito o desenvolvimento das soft skills. Sou formado pela mesma como desenvolvedor fullstack e agora estou me aprofundando em python.
+#### Sou brasileiro natural do Rio de Janeiro/rj, atualmente estudo Desenvolvimento web na Trybe, uma escola que vai além do ensino tradicional e incentiva muito o desenvolvimento das soft skills. Sou formado pela mesma como desenvolvedor fullstack e agora estou me aprofundando em python.
 
-Quer dar uma olhada no meu portfólio? [Chega aí](quora.com/profile/Ashish-Kulkarni-100)
+## Quer dar uma olhada no meu portfólio? [Chega aí](quora.com/profile/Ashish-Kulkarni-100)
 <hr>
 
-**Linguagens e ferramentas que uso**
+## **Linguagens e ferramentas que uso**
 
 <img src="https://user-images.githubusercontent.com/76856631/180730869-1973e8e7-059d-4fb1-9cfe-3c8f8729e33c.png" width=8% 
 src="https://user-images.githubusercontent.com/76856631/180730929-205309c1-edb8-45dc-a9d1-7e5c060856b1.png" width=8%/>
@@ -30,7 +31,6 @@ src="https://user-images.githubusercontent.com/76856631/180730929-205309c1-edb8-
 <img src="https://user-images.githubusercontent.com/76856631/180735311-02565e94-c335-4be9-9b03-4a9fac89de34.png" width=8% />
 
 <hr>
-<br clear="left"/>
 
 [![name](https://user-images.githubusercontent.com/76856631/180735649-6cbf4959-0c35-4063-95fe-06300a58d0c3.png)](https://www.linkedin.com/in/eduardo-sass-89706920b/)
 
