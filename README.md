@@ -4,7 +4,6 @@
 
 #### Sou brasileiro natural do Rio de Janeiro/rj, atualmente estudo Desenvolvimento web na Trybe, uma escola que vai além do ensino tradicional e incentiva muito o desenvolvimento das soft skills. Sou formado pela mesma como desenvolvedor fullstack e agora estou me aprofundando em python.
 
-## Quer dar uma olhada no meu portfólio? [Chega aí](quora.com/profile/Ashish-Kulkarni-100)
 <hr>
 
 ## **Linguagens e ferramentas que uso**
