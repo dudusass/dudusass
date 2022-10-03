@@ -31,5 +31,5 @@ src="https://user-images.githubusercontent.com/76856631/180730929-205309c1-edb8-
 
 <hr>
 
-[![name](https://user-images.githubusercontent.com/76856631/180735649-6cbf4959-0c35-4063-95fe-06300a58d0c3.png)](https://www.linkedin.com/in/eduardo-sass-89706920b/)
+[![name](https://user-images.githubusercontent.com/76856631/180735649-6cbf4959-0c35-4063-95fe-06300a58d0c3.png)](https://www.linkedin.com/in/eduardosass/)
 
