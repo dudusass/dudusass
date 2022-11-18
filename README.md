@@ -2,8 +2,9 @@
 
 <hr>
 
-#### Sou brasileiro natural do Rio de Janeiro/rj, atualmente estudo Desenvolvimento web na Trybe, uma escola que vai além do ensino tradicional e incentiva muito o desenvolvimento das soft skills. Sou formado pela mesma como desenvolvedor fullstack e agora estou me aprofundando em python.
-
+#### Sou brasileiro natural do Rio de Janeiro/rj,sou formado em Desenvolvimento Web, busco uma oportunidade na área de tecnologia, tanto como programador front-end quanto para back-end, para exercer minhas habilidades e adquirir novas experiências profissionais na área que AMO ! 
+Gosto de desafios e praticar no dia a dia para aperfeiçoar minhas habilidades.
+Julgo-me uma pessoa curiosa sempre querendo aprender/entender coisas novas, esforçada, comunicativa e muito dedicada.
 <hr>
 
 ## **Linguagens e ferramentas que uso**
